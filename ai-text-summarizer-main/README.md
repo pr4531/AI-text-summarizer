@@ -32,12 +32,7 @@ The AI-generated summary will be displayed neatly in the output box.
 
 **🛠️ Installation & Setup**
 
-1.Clone the repository:
-
-`git clone https://github.com/aaqib605/ai-text-summarizer.git `
-
-`cd ai-text-summarizer `
-
+1.Clone the repository
 2.Open index.html in your browser.
 
 3.**Set Your Gemini API Key** in the input section before using the summarizer.
